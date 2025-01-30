@@ -1,4 +1,4 @@
-b# Day 9 React Mission
+# Day 9 React Mission
 
 > 공식문서가 아닌 주관적으로 답변해보겠습니다.
 
